@@ -1,0 +1,12 @@
+[submodule "Plugins/UROSBridge"]
+	path = Plugins/UROSBridge
+	url = https://github.com/robcog-iai/UROSBridge/
+[submodule "Plugins/UROSWorldControl"]
+	path = Plugins/UROSWorldControl
+	url = https://github.com/robcog-iai/UROSWorldControl/
+[submodule "Plugins/UUtils"]
+	path = Plugins/UUtils
+	url = https://github.com/robcog-iai/UUtils/
+[submodule "Plugins/UnrealInterfaceObjectPlugin"]
+	path = Plugins/UnrealInterfaceObjectPlugin
+	url = https://github.com/code-iai/UnrealInterfaceObjectPlugin/

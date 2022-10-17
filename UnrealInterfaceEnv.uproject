@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0004181A-08D9-A2B5-7232-2FEC3AB461EF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealInterfaceEnv",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
